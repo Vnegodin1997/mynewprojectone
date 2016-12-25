@@ -1,0 +1,6 @@
+c:\users\vnego\documents\visual studio 2015\Projects\PI4_Ind\PI4_Ind\bin\Debug\PI4_Ind.exe.config
+c:\users\vnego\documents\visual studio 2015\Projects\PI4_Ind\PI4_Ind\bin\Debug\PI4_Ind.exe
+c:\users\vnego\documents\visual studio 2015\Projects\PI4_Ind\PI4_Ind\bin\Debug\PI4_Ind.pdb
+c:\users\vnego\documents\visual studio 2015\Projects\PI4_Ind\PI4_Ind\obj\Debug\PI4_Ind.csprojResolveAssemblyReference.cache
+c:\users\vnego\documents\visual studio 2015\Projects\PI4_Ind\PI4_Ind\obj\Debug\PI4_Ind.exe
+c:\users\vnego\documents\visual studio 2015\Projects\PI4_Ind\PI4_Ind\obj\Debug\PI4_Ind.pdb
